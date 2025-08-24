@@ -1,0 +1,11 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Output files from the script
+elbow_plot.png
+cluster_plot.png
+clustered_customers.csv
+
+# Optional: Exclude the dataset if you don’t want to push it
+# Mall_Customers.csv

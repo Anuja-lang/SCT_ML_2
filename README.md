@@ -1,5 +1,5 @@
 ##Setup Instructions
-1. If you have git install you can clone this repository in your pc:
+1. If you have git install in your pc you can clone this repository using
 
    https://github.com/Anuja-lang/SCT_ML_2
 

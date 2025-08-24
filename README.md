@@ -5,9 +5,9 @@
 
 3. 📥 Download the Dataset:
    
-   Download Mall_Customers.csv from Kaggle.
+  - Download <code>Mall_Customers.csv</code> from [Kaggle](https://www.kaggle.com/datasets/yasserh/Mall-Customers-dataset).
    
-   Place Mall_Customers.csv in the project folder.
+  - Place <code>Mall_Customers.csv</code> in the project folder.
 
 2. 🛠️ Install Dependencies:
    ```bash

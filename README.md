@@ -5,7 +5,7 @@
 
 3. 📥 Download the Dataset:
    
-  - Download <code>Mall_Customers.csv</code> from [Kaggle](https://www.kaggle.com/datasets/yasserh/Mall-Customers-dataset).
+  - Download <code>Mall_Customers.csv</code> from [Kaggle](https://www.kaggle.com/datasets).
    
   - Place <code>Mall_Customers.csv</code> in the project folder.
 

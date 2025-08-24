@@ -5,7 +5,7 @@
 
 3. 📥 Download the Dataset:
    
-  - Download <code>Mall_Customers.csv</code> from [Kaggle](https://www.kaggle.com/datasets).
+  - Download <code>Mall_Customers.csv</code> from [Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python).
    
   - Place <code>Mall_Customers.csv</code> in the project folder.
 
